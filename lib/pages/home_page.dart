@@ -5,7 +5,7 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const int A = 30;
+    const int A = 60;
     const double B = 25.9;
 
     return Scaffold(
